@@ -1,0 +1,13 @@
+
+Clound.png
+size: 190,89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Normal_game/fx/clouds_1
+  rotate: false
+  xy: 2, 2
+  size: 186, 85
+  orig: 188, 113
+  offset: 1, 14
+  index: -1

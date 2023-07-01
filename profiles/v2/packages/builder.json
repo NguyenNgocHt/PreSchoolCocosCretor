@@ -1,0 +1,90 @@
+{
+  "log": {
+    "level": 4
+  },
+  "__version__": "1.3.3",
+  "common": {
+    "scenes": [
+      {
+        "url": "db://assets/vd-boot/StartScene.scene",
+        "uuid": "fc3c5944-03ea-49ff-9194-231e2f9ee56e",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/vd-games/pvp-domino/res/scene/DomiScene.scene",
+        "uuid": "f003f78a-c18a-49b4-afe2-1f8df294b9b1",
+        "inBundle": true
+      }
+    ],
+    "debug": true,
+    "sourceMaps": true,
+    "useSplashScreen": false,
+    "buildPath": "D:\\game\\deploy_preschool",
+    "outputName": "web-mobile",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile",
+    "polyfills": {
+      "asyncFunctions": true
+    }
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1677221549932": {
+        "type": "build",
+        "id": "1677221549932",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "4-3-2023 08:38:50 Build success in 56417 ms!",
+        "options": {
+          "name": "FrameworkCocos",
+          "platform": "web-mobile",
+          "buildPath": "D:\\game\\deploy_preschool",
+          "debug": true,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": true,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "packAutoAtlas": true,
+          "startScene": "fc3c5944-03ea-49ff-9194-231e2f9ee56e",
+          "outputName": "web-mobile",
+          "scenes": [
+            {
+              "url": "db://assets/vd-boot/StartScene.scene",
+              "uuid": "fc3c5944-03ea-49ff-9194-231e2f9ee56e",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/vd-games/pvp-domino/res/dm_Scene.scene",
+              "uuid": "f003f78a-c18a-49b4-afe2-1f8df294b9b1",
+              "inBundle": true
+            }
+          ],
+          "web-desktop": [],
+          "packages": {
+            "cocos-service": {
+              "configID": "30a862",
+              "services": []
+            },
+            "web-mobile": {
+              "orientation": "auto",
+              "embedWebDebugger": false
+            }
+          },
+          "__version__": "1.3.4",
+          "web-mobile": [],
+          "replaceSplashScreen": false
+        },
+        "time": "4-3-2023 08:37",
+        "dirty": false
+      }
+    }
+  }
+}

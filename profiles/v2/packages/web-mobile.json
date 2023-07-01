@@ -1,0 +1,39 @@
+{
+  "__version__": "1.0.1",
+  "builder": {
+    "common": {
+      "buildPath": "project://build",
+      "outputName": "web-mobile",
+      "mainBundleCompressionType": "merge_dep",
+      "platform": "web-mobile",
+      "debug": true,
+      "sourceMaps": true
+    },
+    "taskOptionsMap": {
+      "1677221549932": {
+        "orientation": "landscape",
+        "embedWebDebugger": false,
+        "__version__": "1.0.1"
+      }
+    },
+    "__version__": "1.3.4",
+    "options": {
+      "web-mobile": {
+        "orientation": "landscape",
+        "embedWebDebugger": false,
+        "__version__": "1.0.1"
+      }
+    }
+  },
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "buildPath": "D:\\game\\deploy_preschool"
+  },
+  "options": {
+    "web-mobile": {
+      "orientation": "auto"
+    }
+  }
+}

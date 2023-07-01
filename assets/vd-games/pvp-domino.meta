@@ -1,0 +1,14 @@
+{
+  "ver": "1.1.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "780045e1-74c0-45f7-8743-ca5b0e7b48bc",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "compressionType": {},
+    "isRemoteBundle": {},
+    "bundleName": "bundle_domino",
+    "isBundle": true
+  }
+}
